@@ -1,3 +1,7 @@
+# Note:
+       Moved here from my old GitHub profile to keep everything in one place
+
+
 # IP Geolocation Tool
 
 A beautiful and feature-rich command-line tool to get detailed geographic information about IP addresses. This tool provides rich information about any IP address including location, network details, and country demographics in a visually appealing format.
@@ -31,12 +35,7 @@ A beautiful and feature-rich command-line tool to get detailed geographic inform
    cd ip-geolocation
    ```
 
-2. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Make the script executable (Linux/Mac):
+2. Make the script executable (Linux/Mac):
    ```
    chmod +x ip-geo-tool.py
    ```
