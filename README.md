@@ -6,7 +6,9 @@
 
 A beautiful and feature-rich command-line tool to get detailed geographic information about IP addresses. This tool provides rich information about any IP address including location, network details, and country demographics in a visually appealing format.
 
-![Example Output](https://i.imgur.com/example.png)
+
+![image](https://github.com/user-attachments/assets/9fe137f9-66d6-4bc6-a317-61acafa006e8)
+
 
 ## Features
 
